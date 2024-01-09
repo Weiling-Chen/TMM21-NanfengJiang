@@ -1,1 +1,0 @@
-{Nanfeng Jiang} received the B.S. and M.S. degrees in computer science from Fujian Normal University, Fuzhou, China, in 2016 and 2019, respectively. He is currently pursuing the Ph.D. degree with the College of Physics and Information Engineering, Fuzhou University, China. His current research interests include image/video enhancement, and computer vision.
